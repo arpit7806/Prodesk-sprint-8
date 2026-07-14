@@ -1,0 +1,13 @@
+.app-shell {
+  min-height: 100vh;
+}
+
+.search-section {
+  padding: 32px 40px 8px;
+}
+
+@media (max-width: 640px) {
+  .search-section {
+    padding: 20px 16px 4px;
+  }
+}
